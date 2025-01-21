@@ -18,7 +18,7 @@
                             </a>
                             <a class="nav-link" href="html/register.html">
                                 <div class="sb-nav-link-icon"><i class="fas fa-table"></i></div>
-                                Registrar Usuarioss
+                                Registrar Usuarios
                             </a>
                             
                             <a class="nav-link" href="php/logout.php">
